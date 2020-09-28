@@ -1,0 +1,7 @@
+tensorflow-gpu==2.3.0
+pandas
+dash
+speech_recognition
+beautifulsoup4==4.9.0
+requests
+transformers
